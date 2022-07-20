@@ -1,7 +1,7 @@
 # Repository-for-Master-Degree
 This repository is designed for projects as a portfolio for admission to graduate school.
 This repository contains what I think are 3 of my most interesting projects for my master's program that I completed as part of my Yandex studies.
-
+[Diploma of completion of the Data Analyst](https://yadi.sk/i/ImyHOL_QHBmu7g)
 Additional education in data analysis is preparing me for a career as a data analyst, helping me learn how to clean and organize data, identify patterns, draw meaningful conclusions, and clearly communicate important results. 
 
 I have used the following Python libraries in these projects: `Pandas` ; `Matplotlib` ; `Seaborn` ; `Scikit-learn` ; `NumPy` ; `SciPy` .
