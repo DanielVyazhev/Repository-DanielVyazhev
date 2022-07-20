@@ -40,3 +40,13 @@ Using data from the online store to prioritize hypotheses, evaluate the results 
 #### Project Description: 
 
 Prioritized hypotheses on ICE and RICE frameworks. Then we analyzed the results of the A/B-test, plotted cumulative revenue, average check, conversion by group, and then calculated the statistical significance of differences in conversions and average checks on the raw and purified data. Based on the analysis, we decided that it was inexpedient to continue conducting the test.
+
+# SQL project: Database Analysis.
+
+#### Project Task:
+
+Analyze the database to formulate a value proposition for a new product Examine information about books, publishers, authors, and user reviews of books.
+
+#### Project Description:
+
+Our first task is to analyze the database. It contains information about books, publishers, authors, and user reviews of books. This data will help formulate a value proposition for the new product.
