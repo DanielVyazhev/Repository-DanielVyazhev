@@ -20,6 +20,16 @@ A task for a marketing analyst for the entertainment app Procrastinate Pro+. Des
 Analysis of data from ProcrastinatePRO+ was performed.
 Calculated various metrics and used cohort analysis: LTV, CAC, Retention rate, DAU, WAU, MAU etc. **Used previously written functions to calculate the metrics**. Conclusions on the obtained data are made.
 
+# Sprint - Statistical analysis of data
+
+#### Project Task:
+
+Analyze customer behavior and search for the optimal tariff based on cellular operator's customer data.
+
+#### Project Description: 
+
+A preliminary analysis of the use of tariffs on a sample of customers was carried out, analyzed customer behavior when using the operator's services and recommended optimal sets of services for users. The preprocessing of the data, their analysis. The hypotheses of the difference in the revenues of the subscribers of different tariffs and the the difference in revenues between subscribers from Moscow and other regions.
+
 # Sprint - Decision-making in business
 **Testing hypotheses to increase revenue in the online store -Evaluate A/B test results**
 
@@ -30,13 +40,3 @@ Using data from the online store to prioritize hypotheses, evaluate the results 
 #### Project Description: 
 
 Prioritized hypotheses on ICE and RICE frameworks. Then we analyzed the results of the A/B-test, plotted cumulative revenue, average check, conversion by group, and then calculated the statistical significance of differences in conversions and average checks on the raw and purified data. Based on the analysis, we decided that it was inexpedient to continue conducting the test.
-
-# Sprint - Statistical analysis of data
-
-#### Project Task:
-
-Analyze customer behavior and search for the optimal tariff based on cellular operator's customer data.
-
-#### Project Description: 
-
-A preliminary analysis of the use of tariffs on a sample of customers was carried out, analyzed customer behavior when using the operator's services and recommended optimal sets of services for users. The preprocessing of the data, their analysis. The hypotheses of the difference in the revenues of the subscribers of different tariffs and the the difference in revenues between subscribers from Moscow and other regions.
