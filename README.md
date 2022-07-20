@@ -6,7 +6,7 @@ This repository contains what I think are 4 of my most interesting projects for 
 
 Additional education in data analysis is preparing me for a career as a data analyst, helping me learn how to clean and organize data, identify patterns, draw meaningful conclusions, and clearly communicate important results. 
 
-I have used the following Python libraries in these projects: `Pandas` ; `Matplotlib` ; `Seaborn` ; `Scikit-learn` ; `NumPy` ; `SciPy`; 'SQLAlchemy .
+I have used the following Python libraries in these projects: `Pandas` ; `Matplotlib` ; `Seaborn` ; `Scikit-learn` ; `NumPy` ; `SciPy`; 'SQLAlchemy` .
 
 # Sprint - Business metrics analysis
 **Analysis of ProcrastinatePRO+**
