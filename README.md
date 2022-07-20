@@ -1,5 +1,5 @@
 # Repository-for-Master-Degree
-This repository is designed for projects as a portfolio for admission to graduate school.
+This repository is intended for projects as a portfolio for admission to a master's programme "Business Analytics and Big Data Systems"
 This repository contains what I think are 4 of my most interesting projects for my master's program that I completed as part of my Yandex studies.
 
 [Diploma of completion of the Data Analyst](https://yadi.sk/i/ImyHOL_QHBmu7g)
