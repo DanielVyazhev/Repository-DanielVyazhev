@@ -1,4 +1,4 @@
-# Repository-for-Master-Degree
+# Repository-DanielVyazhev
 This repository is intended for projects as a portfolio for admission to a master's programme "Business Analytics and Big Data Systems"
 This repository contains what I think are 4 of my most interesting projects for my master's program that I completed as part of my Yandex studies.
 
