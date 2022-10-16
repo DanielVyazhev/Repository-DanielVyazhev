@@ -9,7 +9,7 @@ Additional education in data analysis is preparing me for a career as a data ana
 I have used the following Python libraries in these projects: `Pandas` ; `Matplotlib` ; `Seaborn` ; `Scikit-learn` ; `NumPy` ; `SciPy`; 'SQLAlchemy` .
 
 # Sprint - Business metrics analysis
-**Analysis of ProcrastinatePRO+**
+[**Analysis of ProcrastinatePRO+**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/blob/main/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B.ipynb)
 
 #### Project Task:
 
@@ -21,6 +21,7 @@ Analysis of data from ProcrastinatePRO+ was performed.
 Calculated various metrics and used cohort analysis: LTV, CAC, Retention rate, DAU, WAU, MAU etc. **Used previously written functions to calculate the metrics**. Conclusions on the obtained data are made.
 
 # Sprint - Statistical analysis of data
+[**Statistical analysis of data**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/blob/main/Определение%20выгодного%20тарифа%20для%20телеком%20компании/Определение%20выгодного%20тарифа%20для%20телеком%20компании.ipynb)
 
 #### Project Task:
 
@@ -31,7 +32,7 @@ Analyze customer behavior and search for the optimal tariff based on cellular op
 A preliminary analysis of the use of tariffs on a sample of customers was carried out, analyzed customer behavior when using the operator's services and recommended optimal sets of services for users. The preprocessing of the data, their analysis. The hypotheses of the difference in the revenues of the subscribers of different tariffs and the the difference in revenues between subscribers from Moscow and other regions.
 
 # Sprint - Decision-making in business
-**Testing hypotheses to increase revenue in the online store -Evaluate A/B test results**
+[**Testing hypotheses to increase revenue in the online store -Evaluate A/B test results**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/tree/main/Проверка%20гипотез%20по%20увеличению%20выручки%20в%20интернет-магазине%20—%20оценить%20результаты%20AB%20теста)
 
 #### Project Task:
 
@@ -42,6 +43,7 @@ Using data from the online store to prioritize hypotheses, evaluate the results 
 Prioritized hypotheses on ICE and RICE frameworks. Then we analyzed the results of the A/B-test, plotted cumulative revenue, average check, conversion by group, and then calculated the statistical significance of differences in conversions and average checks on the raw and purified data. Based on the analysis, we decided that it was inexpedient to continue conducting the test.
 
 # SQL project: Database Analysis.
+[**SQL Project**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/blob/main/SQL%20Project/SQL%20Project.ipynb)
 
 #### Project Task:
 
