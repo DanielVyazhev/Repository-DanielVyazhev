@@ -62,6 +62,7 @@ In this competition, Kaggle is challenging you to build a model that predicts th
 My goal in this contest was to increase the RMSE value, we used Lasso and Ridge models for the predictions, which we subsequently improved.
 
 # Enterprise Architecture of X5 Retail Group
+[**Enterprise Architecture**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/tree/main/Enterprise%20Architecture%20of%20X5%20Retail)
 This student project was done with the goal of digitalization and increasing profits through improved enterprise architecture.
 The project was done in an archimate language environment.
 The project presents SWOT Analysis, Business Model Canvas, Enterprise Business Architecture at all levels. That all you can see in presentation of the project.
