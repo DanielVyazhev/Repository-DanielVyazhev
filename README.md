@@ -9,7 +9,7 @@ Additional education in data analysis is preparing me for a career as a data ana
 I have used the following Python libraries in these projects: `Pandas` ; `Matplotlib` ; `Seaborn` ; `Scikit-learn` ; `NumPy` ; `SciPy`; `SQLAlchemy` .
 
 # Sprint - Business metrics analysis
-[**Analysis of ProcrastinatePRO+**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/blob/main/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B.ipynb)
+[**Analysis of Application**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/blob/main/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B/Анализ%20убытков%20приложения%20ProcrastinatePRO%2B.ipynb)
 
 #### Project Task:
 
