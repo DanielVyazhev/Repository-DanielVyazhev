@@ -9,15 +9,15 @@ We have identified the best neighbourhoods and streets to open a café, on five 
 
 Scores Explanation:
 
-• score_streets	0,3	The most important factor is a popularity of place, so the highest score is assigned
+• `score_streets`	0,3	The most important factor is a popularity of place, so the highest score is assigned
 
-• score_distance	0,25	Distance from center indirectly defines the popularity of location and potential traffic, therefore it is second priority score
+• `score_distance`	0,25	Distance from center indirectly defines the popularity of location and potential traffic, therefore it is second priority score
 
-• score_aggregate_seats	0,2	Aggregate seats define the traffic, but not consider popularity of place, the weight is lower
+• `score_aggregate_seats`	0,2	Aggregate seats define the traffic, but not consider popularity of place, the weight is lower
 
-• score_inverse_variable	0,15	Weight of penalizing score, it is less than weight for score of streets as there is no aversion of competition and future cafe would have powerful brand
+• `score_inverse_variable`	0,15	Weight of penalizing score, it is less than weight for score of streets as there is no aversion of competition and future cafe would have powerful brand
 
-• score_chains	0,1	Condition whether there are chain restaurants nearby does not directly define level of demand and popularity of place, so the weight is only 0,1
+• `score_chains`	0,1	Condition whether there are chain restaurants nearby does not directly define level of demand and popularity of place, so the weight is only 0,1
 
 
 #### Project Task: 
