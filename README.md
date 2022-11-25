@@ -87,9 +87,13 @@ Previously, this problem was solved in primitive ways. The entrepreneur chose se
 #### Project Task: 
 The difficulty is that the investment risks in such an analysis are very high. After all, the patency of the point may be excellent, but there will be a minimum of the target audience in it. Starting a business turns into a lottery: lucky or not.
 could be resolved:
+
 • accurate assessment of the volume and solvency of the target audience interested in specific goods or services;
+
 • analysis of the supply-demand graph in the location;
+
 • saturation of the competitive environment check;
+
 • tracking the availability and cost of available space for starting a business.
 
 #### My role in the team
