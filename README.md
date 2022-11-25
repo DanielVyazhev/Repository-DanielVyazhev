@@ -31,7 +31,7 @@ Analyze customer behavior and search for the optimal tariff based on cellular op
 
 A preliminary analysis of the use of tariffs on a sample of customers was carried out, analyzed customer behavior when using the operator's services and recommended optimal sets of services for users. The preprocessing of the data, their analysis. The hypotheses of the difference in the revenues of the subscribers of different tariffs and the the difference in revenues between subscribers from Moscow and other regions.
 
-# Sprint - Decision-making in business
+# Sprint - A/B Testing in business
 [**Testing hypotheses to increase revenue in the online store -Evaluate A/B test results**](https://github.com/DanielVyazhev/Repository-DanielVyazhev/tree/main/Проверка%20гипотез%20по%20увеличению%20выручки%20в%20интернет-магазине%20—%20оценить%20результаты%20AB%20теста)
 
 #### Project Task:
