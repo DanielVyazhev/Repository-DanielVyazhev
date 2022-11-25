@@ -1,4 +1,4 @@
-# Decision Making in Business
+# Decision Analysis in Business
 
 To open a local business, an entrepreneur needs to understand the level of potential demand for his services or goods at a particular point. Actually, millions could be invested, a great level service could be achieved, but the business would go broke in a couple of months, because there is simply no target audience in the location.
 Previously, this problem was solved in primitive ways. The entrepreneur chose several locations that seemed promising to him. Then he or specially hired people simply watched the passers-by, manually analyzed the buildings and establishments that already exist there. You can't collect a lot of data like that, but you can draw some conclusions.
