@@ -35,4 +35,3 @@ could be resolved:
 #### My role in the team
 This project involved writing code, pre-processing data and visualising the data, and calculating the results.
 
-![image](https://disk.yandex.ru/i/4Qr2YZmhsvSLlA)
